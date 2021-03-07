@@ -1,0 +1,68 @@
+@import 'normalize.css';
+
+.el-breadcrumb{
+    margin-bottom:15px;
+    font-size:12px;
+}
+/* .el-card{
+    box-shadow:0 1px 1px rgba(0,0,0,0.15) !important;
+} */
+.el-table{
+    margin-top:15px;
+}
+body .el-table th.gutter{
+    display: table-cell!important;
+}
+.el-pagination{
+    margin-top: 15px;
+}
+.el-card__body{
+    height:72vh;
+}
+.input-with-select .el-input-group__prepend {
+    background-color: #fff;
+  }
+  .el-select .el-input {
+    width: 110px;
+  }
+.deltip{
+    color:red;
+}
+.Btip{
+    font-weight: 700;
+}
+.el-alert{
+    margin:10px 0;
+}
+.title .el-badge__content.is-fixed{
+    transform: translateY(0%) translateX(55%);
+}
+.title .el-badge__content{
+    background-color:#ff0000;
+}
+.project .el-card__body{
+    height:17vh;
+}
+.editor .el-card__body{
+    height:100%;
+}
+.classtit{
+    font-size: 18px;
+    color: #303133;
+}
+.w-e-toolbar{
+    z-index:2000 !important;
+}
+.w-e-text-container{
+    z-index:1999 !important;
+}
+
+.exlist .el-card__body{
+    height:100%;
+}
+.exdemolist .el-card__body{
+    height:80vh;
+}
+.statistics .el-card__header{
+    padding: 12px 20px;
+}
